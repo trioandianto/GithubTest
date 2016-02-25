@@ -1,0 +1,3 @@
+Hari ini adalah hari kamis,
+kami dari tim Siliwangi mendapat tugas menjadi pemateri dalam sharing sesion
+dan saya Trio Andianto sebagai pemateri pertama yang ber temakan Git & github
